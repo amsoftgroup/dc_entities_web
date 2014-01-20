@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+
+
+<table-filter match-name="anc"/>
+  <table-filter match-name="barsandliquor"/>
+  <table-filter match-name="bicyclelanes"/>
+  <table-filter match-name="embassy"/>
+  <table-filter match-name="entitymaster"/>
+  <table-filter match-name="entityquery"/>
+  <table-filter match-name="gasstations"/>
+  <table-filter match-name="grocerystores"/>
+  <table-filter match-name="hikingtrails"/>
+  <table-filter match-name="historicdistricts"/>
+  <table-filter match-name="historicstructures"/>
+  <table-filter match-name="hospitals"/>
+  <table-filter match-name="hotels"/>
+  <table-filter match-name="libraries"/>
+  <table-filter match-name="metrostations"/>
+  <table-filter match-name="nationalparks"/>
+  <table-filter match-name="neighborhoodcomposition"/>
+  <table-filter match-name="placesofworship"/>
+  <table-filter match-name="policestations"/>
+  <table-filter match-name="postoffice"/>
+  <table-filter match-name="tenniscourts"/>
+  <table-filter match-name="wards"/>
+</hibernate-reverse-engineering>
